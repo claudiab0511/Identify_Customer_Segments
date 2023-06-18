@@ -5,11 +5,11 @@ In this project, you will work with real-life data provided to us by our Bertels
 
 ### What will I need to install?
 It is highly recommended that you use the project workspace to complete and submit this project. Should you decide to download the data, you will need to remove it from your computer via the agreement with Arvato Bertlesmann. If you choose to use your machine to complete this project, below are a list of the requirements.
+<br>
+This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:<br>
 
-This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
-
-NumPy
-pandas
-Sklearn / scikit-learn
-Matplotlib (for data visualization)
-Seaborn (for data visualization)
+* NumPy
+* pandas
+* Sklearn / scikit-learn
+* Matplotlib (for data visualization)
+* Seaborn (for data visualization)
